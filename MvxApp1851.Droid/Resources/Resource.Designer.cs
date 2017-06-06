@@ -708,13 +708,7 @@ namespace MvxApp1851.Droid
 			global::MvvmCross.Droid.Support.Design.Resource.Drawable.abc_textfield_search_material = global::MvxApp1851.Droid.Resource.Drawable.abc_textfield_search_material;
 			global::MvvmCross.Droid.Support.Design.Resource.Drawable.abc_vector_test = global::MvxApp1851.Droid.Resource.Drawable.abc_vector_test;
 			global::MvvmCross.Droid.Support.Design.Resource.Drawable.avd_hide_password = global::MvxApp1851.Droid.Resource.Drawable.avd_hide_password;
-			global::MvvmCross.Droid.Support.Design.Resource.Drawable.avd_hide_password_1 = global::MvxApp1851.Droid.Resource.Drawable.avd_hide_password_1;
-			global::MvvmCross.Droid.Support.Design.Resource.Drawable.avd_hide_password_2 = global::MvxApp1851.Droid.Resource.Drawable.avd_hide_password_2;
-			global::MvvmCross.Droid.Support.Design.Resource.Drawable.avd_hide_password_3 = global::MvxApp1851.Droid.Resource.Drawable.avd_hide_password_3;
 			global::MvvmCross.Droid.Support.Design.Resource.Drawable.avd_show_password = global::MvxApp1851.Droid.Resource.Drawable.avd_show_password;
-			global::MvvmCross.Droid.Support.Design.Resource.Drawable.avd_show_password_1 = global::MvxApp1851.Droid.Resource.Drawable.avd_show_password_1;
-			global::MvvmCross.Droid.Support.Design.Resource.Drawable.avd_show_password_2 = global::MvxApp1851.Droid.Resource.Drawable.avd_show_password_2;
-			global::MvvmCross.Droid.Support.Design.Resource.Drawable.avd_show_password_3 = global::MvxApp1851.Droid.Resource.Drawable.avd_show_password_3;
 			global::MvvmCross.Droid.Support.Design.Resource.Drawable.design_bottom_navigation_item_background = global::MvxApp1851.Droid.Resource.Drawable.design_bottom_navigation_item_background;
 			global::MvvmCross.Droid.Support.Design.Resource.Drawable.design_fab_background = global::MvxApp1851.Droid.Resource.Drawable.design_fab_background;
 			global::MvvmCross.Droid.Support.Design.Resource.Drawable.design_ic_visibility = global::MvxApp1851.Droid.Resource.Drawable.design_ic_visibility;
